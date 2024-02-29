@@ -1,0 +1,14 @@
+Name: Users
+Id: g=edde0114e78a4c5081d7c36a5564c50e
+Type: UsersCategoryFolder
+Children:
+- Name: User1
+  Id: g=764960929c2d60f8f6d33ab93959e24e
+  Type: UserType
+  Children:
+  - Name: MeasurementSystem
+    Id: g=963e68b132724371493050cf801b9e51
+    Type: BaseVariableType
+    DataType: MeasurementSystem
+    ReferenceType: HasProperty
+    Value: 0

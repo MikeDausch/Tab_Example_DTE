@@ -1,0 +1,6 @@
+Name: Tabs
+Type: FolderType
+Children:
+- File: Setup_Tab/Setup_Tab.yaml
+- File: Status_Tab/Status_Tab.yaml
+- File: Maint_Tab/Maint_Tab.yaml

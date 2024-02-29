@@ -1,0 +1,28 @@
+Name: Faults
+Id: g=543efa612c118be1d598114ff748e8c7
+Type: FolderType
+Children:
+- Name: Fault_1
+  Id: g=4dbf9bcec43f8dbbc8658a93a8c8d25c
+  Type: BaseDataVariableType
+  DataType: Int32
+  DisplayName: {"LocaleId":"en-US","Text":"Starved"}
+  Value: 5
+- Name: Fault_2
+  Type: BaseDataVariableType
+  DataType: Int32
+  DisplayName: {"LocaleId":"en-US","Text":"Axis Fault"}
+  Value: 10
+- Name: Fault_3
+  Type: BaseDataVariableType
+  DataType: Int32
+  DisplayName: {"LocaleId":"en-US","Text":"Safety Stop"}
+  Value: 30
+- Name: Fault_4
+  Type: BaseDataVariableType
+  DataType: Int32
+  Value: 15
+- Name: Fault_5
+  Type: BaseDataVariableType
+  DataType: Int32
+  Value: 44
